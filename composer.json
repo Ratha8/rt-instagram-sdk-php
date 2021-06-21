@@ -1,5 +1,5 @@
 {
-  "name": "noxzemart/rt-instagram-sdk-php",
+  "name": "rotha/rt-instagram-sdk-php",
   "type": "library",
   "description": "This is an unofficial SDK for the Instagram Private API in PHP",
   "license": "MIT",
